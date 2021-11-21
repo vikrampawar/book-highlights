@@ -1,6 +1,12 @@
 # Enterprise API Management
 
 [> Home](../README.md)
+## The API value chain
+
+
+
+There is another well-known and publicly available API maturity model, known as the Richardson Maturity Model. However ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/1d967053-35e6-4605-806f-635ad0b11361.xhtml#4f66455a-ae04-48ea-91b5-fed29afcc6c6))
+
 ## Common denominators
 
 
@@ -15,23 +21,11 @@ To avoid confusion, this book refers to managed APIs as simply APIs ([link](http
 
 The tendency of integration middleware to become bigger and bigger seems to be reversing, almost like a big bubble that bursts into many smaller ones. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/69f86932-1f46-4975-a731-d9cb98f192d2.xhtml#ebb5c147-40c1-42b0-b86e-f0a085a56e10))
 
-## The API value chain
+## API microgateway
 
 
 
-There is another well-known and publicly available API maturity model, known as the Richardson Maturity Model. However ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/1d967053-35e6-4605-806f-635ad0b11361.xhtml#4f66455a-ae04-48ea-91b5-fed29afcc6c6))
-
-## API load balancing
-
-
-
-Instead, this capability refers to the ability of an API gateway to also act as a client-based load balancer, thus removing the need for a load balancer in between ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/e02b7b41-45c0-49cd-b92f-e775deb86c88.xhtml#d1ef5c14-be40-463a-a006-1ceea4587aa3))
-
-## Redaction
-
-
-
-Redaction refers to having the ability of removing, masking, and/or limiting the presence of fields within request/response payloads and/or headers ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/737629cf-280b-4a2a-8025-551f3865f7e2.xhtml#8cf98d6d-97aa-45ef-b36e-641c4598c85b))
+A better solution would be for the ingress load balancer to also act as an API gateway. This is referred to as an API microgateway. This not only means that the API gateway itself would fit more natively into an independent runtime's architecture, but that it too could directly leverage other runtime capabilities, such as a service mesh ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/4f629a53-294a-4ae9-b23c-e37bed0d05a7.xhtml#78826e20-f036-441e-8a94-1c58bda64f6e))
 
 ## Avoiding a hyperconnectivity mess
 
@@ -42,11 +36,29 @@ API management differs from related disciplines, most notably SOA governance, in
 
 A hyperconnectivity mess occurs as a result of APIs being used in an ad hoc manner and without proper governance.  ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/188dfb16-5f8d-4b8b-8b7a-8bf2fc67e759.xhtml#e99d2692-6abc-4b2b-a48e-aebfc5b985f2))
 
+## Redaction
+
+
+
+Redaction refers to having the ability of removing, masking, and/or limiting the presence of fields within request/response payloads and/or headers ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/737629cf-280b-4a2a-8025-551f3865f7e2.xhtml#8cf98d6d-97aa-45ef-b36e-641c4598c85b))
+
+## API load balancing
+
+
+
+Instead, this capability refers to the ability of an API gateway to also act as a client-based load balancer, thus removing the need for a load balancer in between ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/e02b7b41-45c0-49cd-b92f-e775deb86c88.xhtml#d1ef5c14-be40-463a-a006-1ceea4587aa3))
+
 ## API monetization and billing
 
 
 
 A better and more commonly accepted definition is that API monetization refers to having the ability to drive revenue through the use of APIs ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/3382e422-9527-4fb7-9232-5b4cab26a838.xhtml#4feed0d5-963b-4716-a709-5ea63f7f04d2))
+
+## API orchestration service
+
+
+
+The solution is to adopt a process engine as the means to design and implement the business process orchestration in accordance with the business requirements. You can then expose the process orchestration as an API so it can be accessed from multiple consuming applications ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/a5f5bef3-55ec-4333-9b60-b3ee187b0ae0.xhtml#6550eb56-f4ff-4568-9008-0ef121772971))
 
 ## APIs as a driving force for many large acquisitions in the software industry
 
@@ -60,6 +72,21 @@ integration market is shifting and that more traditional integration capabilitie
 
 API composition differs from orchestration in that there is no (or should not be any) business logic implemented in the composition, for example, if/then/switch conditionals, for/while loops, or complex data transformations ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/dde7f300-3406-4bd2-b955-a6f8114c36e0.xhtml#2fd8d2e2-2b9d-4c48-b250-8f2d9b0a183b))
 
+## Architectural principles
+
+
+
+Version-free ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/920a462b-14c6-4708-bd09-bf48eebcbd44.xhtml#adabcd90-b57e-4915-b0c8-6c5b6081b3b0))
+
+
+Vikram: [GraphIQL provides a way to maintain backwards and forward compatibility without maintaining versions of the service at server level.]
+
+## Push notification
+
+
+
+The most common way to implement this capability is via Webhooks. Webhooks enable API consumers to subscribe to specific API events, for example, changes in data for a specific resource, and during the subscription process (which is typically just an API POST request), API consumers provide a call-back URL that is subsequently used by the server to push the events. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/6d15ddc2-511a-4ff9-9d1d-9871e75e9b0c.xhtml#2f3b6793-cd1b-4922-b43d-478f7a0e7a3f))
+
 ## API resource routing
 
 
@@ -69,12 +96,6 @@ Implementing an API gateway as the only entry point to all services means that A
 
 Vikram: [One endpoint
 ]
-
-## Push notification
-
-
-
-The most common way to implement this capability is via Webhooks. Webhooks enable API consumers to subscribe to specific API events, for example, changes in data for a specific resource, and during the subscription process (which is typically just an API POST request), API consumers provide a call-back URL that is subsequently used by the server to push the events. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/6d15ddc2-511a-4ff9-9d1d-9871e75e9b0c.xhtml#2f3b6793-cd1b-4922-b43d-478f7a0e7a3f))
 
 ## Who this book is for
 
@@ -120,6 +141,12 @@ To summarize, API management must be as much about providing the means to discov
 
 During this period, if a web service had to be accessed from outside the internal networks, typically web proxies would be implemented in Demilitarized Zones (DMZs), to proxy the HTTP traffic to the ESB, and also implement transport security (HTTPS) ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/782e5307-c695-4cba-8ef8-a250392afc9a.xhtml#7c33f257-fddd-4659-92e0-e4be1bca14d0))
 
+## Service mesh
+
+
+
+popular choice for implementing a service mesh in Kubernetes infrastructures is Istio.io. Another popular choice for a Java-based service mesh is Hystrix, which was originally developed by Netflix but also open sourced. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/8e61cb3e-b6ec-4a56-ac2f-4c79044d9ecf.xhtml#5a543646-98d8-4131-b699-e918024a73c9))
+
 ## Service registry
 
 
@@ -128,12 +155,6 @@ For example, Apache Kafka uses Apache Zookeeper as its internal registry. Kubern
 
 
 a registry can be used by a service to obtain configuration metadata during startup and to register its runtime metadata (for example, HTTP endpoints) once it is up and running. The registry can also be used by other infrastructure components (for example, API gateways or a service mesh) to dynamically determine the status of a service and dynamically route requests to active and healthy service endpoints ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/62deb947-bb78-4d8a-ad1a-4cf2710ecdc5.xhtml#7e82cfae-5fae-4037-abf6-7b39ba6d2525))
-
-## Service mesh
-
-
-
-popular choice for implementing a service mesh in Kubernetes infrastructures is Istio.io. Another popular choice for a Java-based service mesh is Hystrix, which was originally developed by Netflix but also open sourced. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/8e61cb3e-b6ec-4a56-ac2f-4c79044d9ecf.xhtml#5a543646-98d8-4131-b699-e918024a73c9))
 
 ## Conceptual architecture view
 
@@ -182,11 +203,11 @@ The Open Web Application Security Project (OWASP) Top 10 delivers an industry-re
 
 As ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/66ca9b5f-1351-4e8c-bb60-f0938f54a11d.xhtml#11616b4e-1ed0-4991-9ea8-cc452600a170))
 
-## Identity federation
+## What are APIs and why should a business care?
 
 
 
-it is possible for users whose accounts reside in the identity provider to also be granted access to the main application ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/a429df55-e9fe-44d8-a10d-0c22f6478461.xhtml#b4bc3894-99ab-49d0-8cf0-90db3f651160))
+In fact, according to programmableweb.com (a well-known public API catalogue), the number of publicly available APIs has been growing exponentially, reaching over 20k as of August 2018 ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/d3ca40f7-3990-46ab-ad9d-536e23274a7e.xhtml#84993c93-7451-41c9-8a41-3c46dd698ad0))
 
 ## CORS
 
@@ -202,23 +223,23 @@ CORS ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/0425
 
 Vikram: [Bookmark ]
 
-## What are APIs and why should a business care?
+## Identity federation
 
 
 
-In fact, according to programmableweb.com (a well-known public API catalogue), the number of publicly available APIs has been growing exponentially, reaching over 20k as of August 2018 ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/d3ca40f7-3990-46ab-ad9d-536e23274a7e.xhtml#84993c93-7451-41c9-8a41-3c46dd698ad0))
-
-## Caching
-
-
-
-For example, when a second (similar) call occurs, the downstream service won't have to be invoked as the response is already cached. This known as a Response Cache. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/0543b332-a17f-4da8-a346-894bd2bfb462.xhtml#54642e17-7f3a-404b-8a41-f6602c070314))
+it is possible for users whose accounts reside in the identity provider to also be granted access to the main application ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/a429df55-e9fe-44d8-a10d-0c22f6478461.xhtml#b4bc3894-99ab-49d0-8cf0-90db3f651160))
 
 ## The journey of API platforms - from proxies to microgateways
 
 
 
 In order to address this, a generally accepted approach is to implement a hybrid Integration Platform as a Service (iPaaS) solution, capable of providing access to information assets regardless of where they are. The iPaaS platform should be capable of connecting to any cloud service and/or on-premise system, and delivering access to APIs. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/35821612-84cb-4348-86ac-87c96ca4ada1.xhtml#2dab95f8-ad09-435b-8a1a-9607d379befe))
+
+## Caching
+
+
+
+For example, when a second (similar) call occurs, the downstream service won't have to be invoked as the response is already cached. This known as a Response Cache. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/0543b332-a17f-4da8-a346-894bd2bfb462.xhtml#54642e17-7f3a-404b-8a41-f6602c070314))
 
 ## API design and mocking
 
@@ -229,12 +250,6 @@ Quickly design APIs with any of the main specifications available, such as OAS, 
 
 There are tools on the market dedicated to the API design-first cycle, the most popular ones being Apiary.io and SwaggerHub (swagger.io); however, the latter only supports the OpenAPI Specification (OAS), whereas Apiary offers OAS in addition to API Blueprint. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/84aa45a8-44b6-4007-b9c6-0cda98b2db48.xhtml#90de67a0-ddf3-4859-803d-e941f675da97))
 
-## APIs to monetize on information assets
-
-
-
-APIs, on the other hand, are better suited to providing insight about how/by who/when/why information is being accessed, therefore giving the business the ability to make better use of information to, for example, determine which assets have better capital potential. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/9ed3eed4-a822-4d96-a3dd-6be15104eb64.xhtml#48868027-6921-45d4-a9b2-aeef0972ed70))
-
 ## APIs as an enabler for innovation and bimodal IT
 
 
@@ -243,5 +258,11 @@ It requires a multi-disciplinary team of people, with the right technology capab
 
 
 The practice of managing two separate, coherent modes of IT delivery, one focused on stability and the other on agility. Mode 1 is traditional and sequential, emphasizing safety and accuracy. Mode 2 is exploratory and nonlinear, emphasizing agility and speed. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/cc30b2d2-948c-4e2f-a45d-4aac44f7e150.xhtml#8727de8b-151b-4463-ba08-4c6db7069ad1))
+
+## APIs to monetize on information assets
+
+
+
+APIs, on the other hand, are better suited to providing insight about how/by who/when/why information is being accessed, therefore giving the business the ability to make better use of information to, for example, determine which assets have better capital potential. ([link](https://learning.oreilly.com/library/view/-/9781787284432/Text/9ed3eed4-a822-4d96-a3dd-6be15104eb64.xhtml#48868027-6921-45d4-a9b2-aeef0972ed70))
 
 [> Home](../README.md)

@@ -16,18 +16,11 @@ Fast forward to 2016 and the popularity and use of Rx has skyrocketed. All traff
 
 After many false starts it finally dawned on us that by dualizing the Iterable/Iterator interface for synchronous collections, we could obtain a pair of interfaces to represent asynchronous event streams, with all the familiar sequence operators such as map, filter, scan, zip, groupBy, etc. for transforming and combining asynchronous data streams, and thus Rx was born somewhere in the summer of 2007. ([link](https://learning.oreilly.com/library/view/-/9781491931646/foreword01.html#cb03289c-fb3b-40d5-8084-eadca62cfe28))
 
-## Introduction
-
-
-
-Note from Tomasz Nurkiewicz
-I first came across RxJava around 2013 while working for a financial institution. We were dealing with large streams of market data processed in real-time. By then, the data pipeline consisted of Kafka delivering messages, Akka processing trades, Clojure transforming data, and a custom-built language for propagating changes throughout the system. RxJava was a very compelling choice because it had a uniform API that worked very well for different sources of data. ([link](https://learning.oreilly.com/library/view/-/9781491931646/preface01.html#7dfc748a-2d1e-4af8-a13e-ebb26ce27504))
-
 ## 1. Reactive Programming with RxJava
 
 
 
-Hence this is where the tagline for Reactive Extensions (Rx) in general and RxJava specifically comes from, “a library for composing asynchronous and event-based programs.” RxJava is a concrete implementation of reactive programming principles influenced by functional and data-flow programming. ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#daba1122-188d-418b-bad1-30e27f3a38bd))
+Hence this is where the tagline for Reactive Extensions (Rx) in general and RxJava specifically comes from, â€œa library for composing asynchronous and event-based programs.â€ RxJava is a concrete implementation of reactive programming principles influenced by functional and data-flow programming. ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#daba1122-188d-418b-bad1-30e27f3a38bd))
 
 
 you need to combine events (or asynchronous responses from functions or network calls), have conditional logic interacting between them, and must handle failure scenarios and resource cleanup on any and all of them. This is where the reactive-imperative approach begins to dramatically increase in complexity and reactive-functional programming begins to shine ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#e17eca08-90e9-4c96-84b6-38e5cf8617d8))
@@ -39,6 +32,13 @@ Now, if the code in question is handling only one event stream, reactive-imperat
 So, the short answer to what reactive-functional programming is solving is concurrency and parallelism. More colloquially, it is solving callback hell, which results from addressing reactive and asynchronous use cases in an imperative way. ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#b26b32ae-1fa3-4d97-bacd-1ecf2db08c25))
 
 
-Reactive-functional programming therefore is an approach to programming—an abstraction on top of imperative systems—that allows us to program asynchronous and event-driven use cases without having to think like the computer itself and imperatively define the complex interactions of state, particularly across thread and network boundaries. ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#322890d5-ee22-487d-b8fe-d4507626a8a3))
+Reactive-functional programming therefore is an approach to programmingâ€”an abstraction on top of imperative systemsâ€”that allows us to program asynchronous and event-driven use cases without having to think like the computer itself and imperatively define the complex interactions of state, particularly across thread and network boundaries. ([link](https://learning.oreilly.com/library/view/-/9781491931646/ch01.html#322890d5-ee22-487d-b8fe-d4507626a8a3))
+
+## Introduction
+
+
+
+Note from Tomasz Nurkiewicz
+I first came across RxJava around 2013 while working for a financial institution. We were dealing with large streams of market data processed in real-time. By then, the data pipeline consisted of Kafka delivering messages, Akka processing trades, Clojure transforming data, and a custom-built language for propagating changes throughout the system. RxJava was a very compelling choice because it had a uniform API that worked very well for different sources of data. ([link](https://learning.oreilly.com/library/view/-/9781491931646/preface01.html#7dfc748a-2d1e-4af8-a13e-ebb26ce27504))
 
 [> Home](../README.md)

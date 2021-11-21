@@ -14,7 +14,7 @@ When group by is used, the select clause applies aggregates to each group separa
 Operationally, group by sits in between the where clause and the select clause. group by takes the output of where and splits it into groups of rows that share a common value (or values) for a specific column (or columns) ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#ed74ac61-c522-439f-bd58-93dbd9280614))
 
 
-Aggregates operate within the select clause. They compute their values on the rows selected by the where clause—not from all rows selected by the from clause. The select command filters first and then aggregates. ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#6c2695a3-bb91-4ab2-a960-c1fe9f67850d))
+Aggregates operate within the select clause. They compute their values on the rows selected by the where clauseâ€”not from all rows selected by the from clause. The select command filters first and then aggregates. ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#6c2695a3-bb91-4ab2-a960-c1fe9f67850d))
 
 
 Notice that limit and offset are dead last in the operational pipeline. One common misconception of limit/offset is that it speeds up a query by limiting the number of rows that must be collected by the where clause. ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#309d7a60-acba-435e-b8b8-cc049adda407))
@@ -23,7 +23,7 @@ Notice that limit and offset are dead last in the operational pipeline. One comm
 You can limit the size and particular range of the result using the limit and offset keywords. limit specifies the maximum number of records to return. offset specifies the number of records to skip.  ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#292a1314-1b82-44eb-8560-5a7dccdc8315))
 
 
-As stated earlier, where—a restriction—is a filter. The argument of where is a logical predicate ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#ee306bcd-e596-446a-b54e-423dcde4b7f0))
+As stated earlier, whereâ€”a restrictionâ€”is a filter. The argument of where is a logical predicate ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#ee306bcd-e596-446a-b54e-423dcde4b7f0))
 
 
 SQLite applies the where clause to each row of the relation produced by the from clause (R1). ([link](https://learning.oreilly.com/library/view/-/9781430232254/Chapter03.html#47c74601-ca0e-49c9-8837-9a2a4680aa51))

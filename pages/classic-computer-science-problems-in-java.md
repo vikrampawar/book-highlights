@@ -37,7 +37,7 @@ lly 0,1 => 1
 ]
 
 
-The two bits are composed together in the variable lastBits. lastBits is made by shifting the first bit back one place, and then ORing (| operator) the result with the second bit. When a value is shifted, using the << operator, the space left behind is replaced with 0s. An OR says, “If either of these bits are a 1, put a 1.” Therefor ORing secondBit with a 0 will always just result in the value of secondBit. L ([link](https://learning.oreilly.com/library/view/-/9781617297601/OEBPS/Text/ch01_Kopec3.htm#61304dc0-a353-45b2-9376-82c8b8f32525))
+The two bits are composed together in the variable lastBits. lastBits is made by shifting the first bit back one place, and then ORing (| operator) the result with the second bit. When a value is shifted, using the << operator, the space left behind is replaced with 0s. An OR says, â€œIf either of these bits are a 1, put a 1.â€ Therefor ORing secondBit with a 0 will always just result in the value of secondBit. L ([link](https://learning.oreilly.com/library/view/-/9781617297601/OEBPS/Text/ch01_Kopec3.htm#61304dc0-a353-45b2-9376-82c8b8f32525))
 
 
 Memoization is a technique in which you store the results of computational tasks when they are completed so that when you need them again, you can look them up instead of needing to compute them a second (or millionth) time (see figure 1.4). ([link](https://learning.oreilly.com/library/view/-/9781617297601/OEBPS/Text/ch01_Kopec3.htm#65d76970-952b-4ef8-823d-1b8c039e3504))

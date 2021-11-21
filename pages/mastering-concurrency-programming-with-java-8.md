@@ -37,11 +37,11 @@ Another option you have is to use something like ConcurrentHashMap<Thread, MyTyp
 
 Get the information about the system dynamically (for example, in Java you can get it with the method Runtime.getRuntime().availableProcessors()) and make your algorithm use that information to calculate the number of tasks it's going to execute. ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s07.html#d20acccd-8793-4232-914a-89223ee6e517))
 
-## The Java memory model
+## Possible problems in concurrent applications
 
 
 
-A memory model describes how individual tasks interact with each other through memory and when changes made by one task will be visible to another.  ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s06.html#adfbf4e2-a333-497f-92c2-f45a4a524e2c))
+They are Coffman's conditions, which are as follows: ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s02.html#08335a42-fa43-404e-9556-7e8aaf23da10))
 
 ## Concurrency design patterns
 
@@ -52,10 +52,10 @@ This design pattern defines how to use global or static variables locally to tas
 
 In this circumstance, a lock provides poor performance because all the read operations can be made concurrently without any problem. ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s05.html#6dfed0d2-c288-4d5e-a339-363e7f1df4c4))
 
-## Possible problems in concurrent applications
+## The Java memory model
 
 
 
-They are Coffman's conditions, which are as follows: ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s02.html#08335a42-fa43-404e-9556-7e8aaf23da10))
+A memory model describes how individual tasks interact with each other through memory and when changes made by one task will be visible to another.  ([link](https://learning.oreilly.com/library/view/-/9781785886126/ch01s06.html#adfbf4e2-a333-497f-92c2-f45a4a524e2c))
 
 [> Home](../README.md)

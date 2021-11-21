@@ -5,16 +5,16 @@
 
 
 
-How can I be 100 percent honest with Chris, and at the same time be 100 percent respectful?” ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#d2b4cf41-6a36-44ff-b04d-c4c33bdca183))
+How can I be 100 percent honest with Chris, and at the same time be 100 percent respectful?â€ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#d2b4cf41-6a36-44ff-b04d-c4c33bdca183))
 
 
-“Do you like it?”—she really meant: “Do you like me?” ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#c0d2ce1c-92e5-4ab9-a6c0-c020cf446e3e))
+â€œDo you like it?â€â€”she really meant: â€œDo you like me?â€ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#c0d2ce1c-92e5-4ab9-a6c0-c020cf446e3e))
 
 
 have to choose between telling the truth and keeping a friend ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#1f490af5-38df-4777-abc2-458e2ebdf3f7))
 
 
-their ability to avoid what we came to call the Fool’s Choice. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#974f1ea9-0f81-46b4-af0d-5d325a1a6dc1))
+their ability to avoid what we came to call the Foolâ€™s Choice. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#974f1ea9-0f81-46b4-af0d-5d325a1a6dc1))
 
 
 but he did so in a way that showed deep respect for Chris.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#0cf7b6af-c7a1-4dad-b092-71c6ebb142b4))
@@ -22,7 +22,7 @@ but he did so in a way that showed deep respect for Chris.  ([link](https://lear
 
 Our lives begin to end the day we become silent about things that matter.
 
-—MARTIN LUTHER KING JR. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#409c00ee-01c8-42d1-bc67-e2c560d6f139))
+â€”MARTIN LUTHER KING JR. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02.html#409c00ee-01c8-42d1-bc67-e2c560d6f139))
 
 ## NOTICE WHICH CONDITION IS AT RISK
 
@@ -34,50 +34,50 @@ In essence, feelings of disrespect often come when we dwell on how others are di
 The disrespect you carry in your head and are trying to keep hidden creeps out in one unfortunate eye gesture ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#ca98490d-4f5f-4ed4-a1bb-94e911ec063d))
 
 
-Why? Because respect is like air. As long as it’s present, nobody thinks about it. But if you take it away, it’s all that people can think about. The instant people perceive disrespect in a conversation, the interaction is no longer about the original purpose—it is now about defending dignity. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#0b1678f3-f901-4e19-86ce-e9e074b82654))
+Why? Because respect is like air. As long as itâ€™s present, nobody thinks about it. But if you take it away, itâ€™s all that people can think about. The instant people perceive disrespect in a conversation, the interaction is no longer about the original purposeâ€”it is now about defending dignity. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#0b1678f3-f901-4e19-86ce-e9e074b82654))
 
 
-For example, if the boss’s behavior is causing you to miss deadlines he cares about, or incur costs he frets over, or lose productivity that he worries about, then you’re onto a possible Mutual Purpose. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#cc93b322-f5c7-4571-bc80-abbff241c130))
+For example, if the bossâ€™s behavior is causing you to miss deadlines he cares about, or incur costs he frets over, or lose productivity that he worries about, then youâ€™re onto a possible Mutual Purpose. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#cc93b322-f5c7-4571-bc80-abbff241c130))
 
 
 Do others believe I care about their goals in this conversation?
 
-• Do they trust my motives? ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#4293c526-bf92-44ba-8fc1-bbe1282f14e3))
+â€¢ Do they trust my motives? ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#4293c526-bf92-44ba-8fc1-bbe1282f14e3))
 
 
-Crucial conversations often go awry not because others dislike the content of the conversation, but because they believe the content (even if it’s delivered in a gentle way) suggests that you have a malicious intent. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#b215892a-5d00-4344-8b74-cf0ab328e0e8))
+Crucial conversations often go awry not because others dislike the content of the conversation, but because they believe the content (even if itâ€™s delivered in a gentle way) suggests that you have a malicious intent. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#b215892a-5d00-4344-8b74-cf0ab328e0e8))
 
 
 That means you trusted his or her purposes so you were willing to listen to some pretty tough feedback. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec2.html#53ba7be9-98c9-4325-8d5e-c3a1e4ad5952))
 
-## DON’T LOOK AT ME!
+## 1 Whatâ€™s a Crucial Conversation?: And Who Cares?
 
 
 
- on me first, us second.”  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec2.html#1eb643ac-5276-4d4a-aec9-1575eeacd2b6))
-
-
-More often than not, we do something to contribute to the problems we’re experiencing. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec2.html#05b5513b-941c-4333-a558-38dd8e298508))
-
-## 1 What’s a Crucial Conversation?: And Who Cares?
-
-
-
-What makes each of these conversations crucial—and not simply challenging, frustrating, frightening, or annoying ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01.html#254d72e2-4470-45bb-8ef4-689864ecc8e7))
+What makes each of these conversations crucialâ€”and not simply challenging, frustrating, frightening, or annoying ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01.html#254d72e2-4470-45bb-8ef4-689864ecc8e7))
 
 
 The single biggest problem in communication is the illusion that it has taken place.
 
-—GEORGE BERNARD SHAW ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01.html#40cfdb47-70f2-4394-9990-c1b4a2971cd5))
+â€”GEORGE BERNARD SHAW ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01.html#40cfdb47-70f2-4394-9990-c1b4a2971cd5))
+
+## DONâ€™T LOOK AT ME!
+
+
+
+ on me first, us second.â€  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec2.html#1eb643ac-5276-4d4a-aec9-1575eeacd2b6))
+
+
+More often than not, we do something to contribute to the problems weâ€™re experiencing. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec2.html#05b5513b-941c-4333-a558-38dd8e298508))
 
 ## WATCH FOR CONDITIONS
 
 
 
-Specifically, watch to see if you’re having a good or bad impact on safety. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#01353104-670e-4e11-be47-1af449df5c62))
+Specifically, watch to see if youâ€™re having a good or bad impact on safety. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#01353104-670e-4e11-be47-1af449df5c62))
 
 
-You’re on the wrong side of your eyeballs. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#251d1064-c70f-4cee-90af-6dc511caa03e))
+Youâ€™re on the wrong side of your eyeballs. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#251d1064-c70f-4cee-90af-6dc511caa03e))
 
 
 Labeling is putting a label on people or ideas so we can dismiss them under a general stereotype or category. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#70e48117-7a1f-4d42-bf23-e6e0973abd65))
@@ -98,37 +98,37 @@ We talk, but without addressing the real issues. ([link](https://learning.oreill
 The three most common forms of silence are masking, avoiding, and withdrawing. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c3806486-d3a7-468b-8bbd-ffd3301731d0))
 
 
-We’re asking you to recode silence and violence as signs that people are feeling unsafe.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#4abecb41-8b36-42f5-9d97-81e8a6d96e60))
+Weâ€™re asking you to recode silence and violence as signs that people are feeling unsafe.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#4abecb41-8b36-42f5-9d97-81e8a6d96e60))
 
 
-So instead of taking their attack as a sign that safety is at risk, you take it at its face—as an attack. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c72375c6-4c83-405b-8265-a797d9b6daa0))
+So instead of taking their attack as a sign that safety is at risk, you take it at its faceâ€”as an attack. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c72375c6-4c83-405b-8265-a797d9b6daa0))
 
 
-That’s what you should be thinking. Unfortunately, since others feel unsafe, they may be trying to make fun of you, insult you, or bowl you over with their arguments.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#dc2dc339-e11a-4d30-aa1b-bd2a65a210ea))
+Thatâ€™s what you should be thinking. Unfortunately, since others feel unsafe, they may be trying to make fun of you, insult you, or bowl you over with their arguments.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#dc2dc339-e11a-4d30-aa1b-bd2a65a210ea))
 
 
-Hey, they’re feeling unsafe. I need to do something—maybe make it safer.”  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#4da33396-0a7f-42a3-aead-dc5bc05ea0d2))
+Hey, theyâ€™re feeling unsafe. I need to do somethingâ€”maybe make it safer.â€  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#4da33396-0a7f-42a3-aead-dc5bc05ea0d2))
 
 
-When it’s unsafe, you start to go blind. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#053733ee-9132-4d96-a3ce-16e10ad428f2))
+When itâ€™s unsafe, you start to go blind. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#053733ee-9132-4d96-a3ce-16e10ad428f2))
 
 
-When you don’t feel safe, even well-intended comments are suspect. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c8953ba7-bac0-4851-a416-d8196852ef14))
+When you donâ€™t feel safe, even well-intended comments are suspect. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c8953ba7-bac0-4851-a416-d8196852ef14))
 
 
-You didn’t need to defend yourself from what was being said— even if you didn’t like what they were saying! ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#63337045-32f1-430a-9169-97cfd590ef38))
+You didnâ€™t need to defend yourself from what was being saidâ€” even if you didnâ€™t like what they were saying! ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#63337045-32f1-430a-9169-97cfd590ef38))
 
 
 The problem is not the content of your message, but the condition of the conversation.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#65db0ad2-432f-4691-b4e7-922669c9e195))
 
 
-If you don’t fear that you’re being attacked or humiliated, you yourself can hear almost anything and not become defensive. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#72a628a1-6f9c-4b25-8c2c-f78e0fa57de3))
+If you donâ€™t fear that youâ€™re being attacked or humiliated, you yourself can hear almost anything and not become defensive. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#72a628a1-6f9c-4b25-8c2c-f78e0fa57de3))
 
 
-When you fear that people aren’t buying into your ideas, you start pushing too hard. When you fear that you may be harmed in some way, you start withdrawing and hiding. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#f6307641-156c-441f-991f-883519168867))
+When you fear that people arenâ€™t buying into your ideas, you start pushing too hard. When you fear that you may be harmed in some way, you start withdrawing and hiding. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#f6307641-156c-441f-991f-883519168867))
 
 
-When it’s safe, you can say anything. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c00b0199-634a-4d01-9eb9-21523c7b3310))
+When itâ€™s safe, you can say anything. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#c00b0199-634a-4d01-9eb9-21523c7b3310))
 
 
 Think about what happens to your body when conversations get tough ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch04lev1sec1.html#55266e8a-213d-481c-9971-8e8829b0710e))
@@ -139,33 +139,6 @@ Think about what happens to your body when conversations get tough ([link](https
 
 He believes her concern in one small area reflects her total feelings toward him. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec4.html#923f61be-09d3-4940-b51d-d848298d0e2f))
 
-## SKILLS FOR MASTERING OUR STORIES
-
-
-
-They’re clever because they allow us to feel good about behaving badly. Better yet, they allow us to feel good about behaving badly even while achieving abysmal results. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#adaac6af-82d7-472a-bdc3-a6fdd583ee1e))
-
-
-This is specific, objective, and verifiable. Any two people watching the meeting would make the same observation. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#8dc2499a-0ce6-4531-82eb-8adff0717c8d))
-
-
-Conclusions are subjective. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#932f42e2-8360-4c80-bdb7-4ab3b53d1d7b))
-
-
-Can you see or hear this thing you’re calling a fact? Was it an actual behavior? ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#e19a562a-e1ee-4c96-95d2-99694c40dcc8))
-
-
-As we said earlier, others could watch Maria’s interactions with Louis and walk away with different stories. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#af6fd4a3-0e67-4d69-a015-0e878dcf39c5))
-
-
-The first step to regaining emotional control is to challenge the illusion that what you’re feeling is the only right emotion under the circumstances.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#3f2c542e-aebb-4ed3-b91c-bad90cbb7b74))
-
-
-It’s important to get in touch with your feelings, and to do so, you may want to expand your emotional vocabulary. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#2621f4fe-447d-44dc-ac5f-d6b58f03d72c))
-
-
-When an unhelpful story is driving you to silence or violence, stop and consider how others would see your actions. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#78e6be92-6ecd-4714-af8e-5ccb88727a6d))
-
 ## START WITH HEART
 
 
@@ -175,6 +148,33 @@ dialogue, no matter the circumstances, is always an option. ([link](https://lear
 
 they begin high-risk discussions with the right motives, and they stay focused no matter what happens. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec3.html#2181d04a-f0cf-48cd-9529-776cf017b376))
 
+## SKILLS FOR MASTERING OUR STORIES
+
+
+
+Theyâ€™re clever because they allow us to feel good about behaving badly. Better yet, they allow us to feel good about behaving badly even while achieving abysmal results. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#adaac6af-82d7-472a-bdc3-a6fdd583ee1e))
+
+
+This is specific, objective, and verifiable. Any two people watching the meeting would make the same observation. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#8dc2499a-0ce6-4531-82eb-8adff0717c8d))
+
+
+Conclusions are subjective. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#932f42e2-8360-4c80-bdb7-4ab3b53d1d7b))
+
+
+Can you see or hear this thing youâ€™re calling a fact? Was it an actual behavior? ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#e19a562a-e1ee-4c96-95d2-99694c40dcc8))
+
+
+As we said earlier, others could watch Mariaâ€™s interactions with Louis and walk away with different stories. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#af6fd4a3-0e67-4d69-a015-0e878dcf39c5))
+
+
+The first step to regaining emotional control is to challenge the illusion that what youâ€™re feeling is the only right emotion under the circumstances.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#3f2c542e-aebb-4ed3-b91c-bad90cbb7b74))
+
+
+Itâ€™s important to get in touch with your feelings, and to do so, you may want to expand your emotional vocabulary. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#2621f4fe-447d-44dc-ac5f-d6b58f03d72c))
+
+
+When an unhelpful story is driving you to silence or violence, stop and consider how others would see your actions. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec5.html#78e6be92-6ecd-4714-af8e-5ccb88727a6d))
+
 ## DIALOGUE
 
 
@@ -182,16 +182,16 @@ they begin high-risk discussions with the right motives, and they stay focused n
 We have to develop the tools that make it safe for us to discuss these issues and to come to a shared pool of meaning.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#0e8bdd1d-b725-4e0e-8688-3b5ea23477d0))
 
 
-We discredit others, hoping people won’t believe their arguments. And then we use every manner of force to get our way or possibly even harm others. We borrow power from the boss; we hit people with biased monologues; we make hurtful comments. The goal, of course, is always the same—to compel others to our point of view. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#62e89312-7d70-4c1a-9d37-2807bc5d6bb6))
+We discredit others, hoping people wonâ€™t believe their arguments. And then we use every manner of force to get our way or possibly even harm others. We borrow power from the boss; we hit people with biased monologues; we make hurtful comments. The goal, of course, is always the sameâ€”to compel others to our point of view. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#62e89312-7d70-4c1a-9d37-2807bc5d6bb6))
 
 
 We act like we know everything, hoping people will believe our arguments.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#ce26b053-bdfe-4ad2-9e12-5dbf1f89df35))
 
 
-Sometimes we rely on hints, sarcasm, caustic humor, innuendo, and looks of disgust to make our points. We play the martyr and then pretend we’re actually trying to help. Afraid to confront an individual, we blame an entire team for a problem—hoping the message will hit the right target.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#76d8d630-cf0e-4a06-9430-0a94242ca66e))
+Sometimes we rely on hints, sarcasm, caustic humor, innuendo, and looks of disgust to make our points. We play the martyr and then pretend weâ€™re actually trying to help. Afraid to confront an individual, we blame an entire team for a problemâ€”hoping the message will hit the right target.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#76d8d630-cf0e-4a06-9430-0a94242ca66e))
 
 
-For example, Kevin and the other VPs didn’t buy into their final choice simply because they were involved; they bought in because they understood. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#fda0d970-82ba-4bc2-a7ea-4882fa4cd0ca))
+For example, Kevin and the other VPs didnâ€™t buy into their final choice simply because they were involved; they bought in because they understood. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#fda0d970-82ba-4bc2-a7ea-4882fa4cd0ca))
 
 
 The Pool of Shared Meaning is the birthplace of synergy ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#f126f314-52b7-4ebd-a18b-43d1d41addf5))
@@ -200,25 +200,25 @@ The Pool of Shared Meaning is the birthplace of synergy ([link](https://learning
 First, as individuals are exposed to more accurate and relevant information, they make better choices ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#e867a79c-d7dd-4980-bdbf-dc92af7e2d59))
 
 
-We play Salute and Stay Mute. That is, we don’t confront people in positions of authority. Or at home we may play Freeze Your Lover. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#211dce59-d274-4896-849b-8b61f46996b1))
+We play Salute and Stay Mute. That is, we donâ€™t confront people in positions of authority. Or at home we may play Freeze Your Lover. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#211dce59-d274-4896-849b-8b61f46996b1))
 
 
-Every time we find ourselves arguing, debating, running away, or otherwise acting in an ineffective way, it’s because we don’t know how to share meaning.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#0a3c1a2c-445d-4e9d-b628-cdad552db5d4))
+Every time we find ourselves arguing, debating, running away, or otherwise acting in an ineffective way, itâ€™s because we donâ€™t know how to share meaning.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#0a3c1a2c-445d-4e9d-b628-cdad552db5d4))
 
 
-the more the unity, and the stronger the conviction—whoever makes the choice. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#fce27486-19d6-43f8-b66c-f08ba5f3aa7c))
+the more the unity, and the stronger the convictionâ€”whoever makes the choice. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#fce27486-19d6-43f8-b66c-f08ba5f3aa7c))
 
 
-To quote Samuel Butler, “He that complies against his will is of his own opinion still.” ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#a99239ae-5c33-4e63-923f-b37ca9cc6d07))
+To quote Samuel Butler, â€œHe that complies against his will is of his own opinion still.â€ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#a99239ae-5c33-4e63-923f-b37ca9cc6d07))
 
 
 When people purposefully withhold meaning from one another, individually smart people can do collectively stupid things. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#c8793333-18f9-429f-913b-48bb703de814))
 
 
-People who are skilled at dialogue do their best to make it safe for everyone to add their meaning to the shared pool—even ideas that at first glance appear controversial, wrong, or at odds with their own beliefs ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#c8aa56cf-de45-43aa-b217-bfda3cffa607))
+People who are skilled at dialogue do their best to make it safe for everyone to add their meaning to the shared poolâ€”even ideas that at first glance appear controversial, wrong, or at odds with their own beliefs ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#c8aa56cf-de45-43aa-b217-bfda3cffa607))
 
 
-When two or more of us enter crucial conversations, by definition we don’t share the same pool ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#c9c89f79-bed3-49aa-a633-6af162c5e86e))
+When two or more of us enter crucial conversations, by definition we donâ€™t share the same pool ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#c9c89f79-bed3-49aa-a633-6af162c5e86e))
 
 
 When it comes to risky, controversial, and emotional conversations, skilled people find a way to get all relevant information (from themselves and others) out into the open. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch02lev1sec1.html#819fe0c9-3eec-431a-ac44-48ca143d7401))
@@ -242,22 +242,30 @@ Recognize the purpose behind the strategy.  ([link](https://learning.oreilly.com
 By focusing on higher and longer-term goals, you often find ways to transcend short-term compromises, build Mutual Purpose, and return to dialogue. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#c1f8b8f9-aa0c-444a-bddd-00ea0f4d61f3))
 
 
-In truth, what we’re asking for is the strategy we’re suggesting to get what we want. We confuse wants or purpose with strategies. That’s the problem ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#a131e046-7403-407e-b353-d81bb6a89fd1))
+In truth, what weâ€™re asking for is the strategy weâ€™re suggesting to get what we want. We confuse wants or purpose with strategies. Thatâ€™s the problem ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#a131e046-7403-407e-b353-d81bb6a89fd1))
 
 
 If it helps you remember what to do, note that the four skills used in creating Mutual Purpose form the acronym CRIB. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#44f4925d-65a5-474d-869a-4c6817106626))
 
 
-It seems like we’re both trying to force our view on each other. I commit to stay in this discussion until we have a solution that satisfies both of us.” ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#570599cc-0311-4efa-8222-e262ddca8896))
+It seems like weâ€™re both trying to force our view on each other. I commit to stay in this discussion until we have a solution that satisfies both of us.â€ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#570599cc-0311-4efa-8222-e262ddca8896))
 
 
-When people misunderstand and you start arguing over the misunderstanding, stop. Use Contrasting. Explain what you don’t mean until you’ve restored safety. Then return to the conversation. Safety first. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#f12780c9-15e7-45f7-b484-40390937f4c2))
+When people misunderstand and you start arguing over the misunderstanding, stop. Use Contrasting. Explain what you donâ€™t mean until youâ€™ve restored safety. Then return to the conversation. Safety first. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#f12780c9-15e7-45f7-b484-40390937f4c2))
 
 
-“I don’t want you to think that I don’t appreciate the time you’ve taken to keep our checkbook balanced and up to date. I do appreciate it, and I know I certainly couldn’t have done nearly as well. I ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#89104f91-a7eb-4006-83a9-8228a4abda85))
+â€œI donâ€™t want you to think that I donâ€™t appreciate the time youâ€™ve taken to keep our checkbook balanced and up to date. I do appreciate it, and I know I certainly couldnâ€™t have done nearly as well. I ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#89104f91-a7eb-4006-83a9-8228a4abda85))
 
 
-Don’t give into the temptation. Don’t take back what you’ve said. Instead, put your remarks in context.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#39003697-5cb4-4d3a-b57e-2d8a5a7e5ee4))
+Donâ€™t give into the temptation. Donâ€™t take back what youâ€™ve said. Instead, put your remarks in context.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch05lev1sec3.html#39003697-5cb4-4d3a-b57e-2d8a5a7e5ee4))
+
+## 3 Start with Heart: How to Stay Focused on What You Really Want
+
+
+
+Speak when you are angry and you will make the best speech you will ever regret.
+
+â€”AMBROSE BIERCE ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03.html#6c5cdafb-7d25-4283-b5e9-55b6a2b07682))
 
 ## FIRST, FOCUS ON WHAT YOU REALLY WANT
 
@@ -278,27 +286,19 @@ What do I really want for others?
 
 What do I really want for the relationship?
 
-Once you’ve asked  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#9bc94291-67c3-4f15-95d7-bd3685233f91))
+Once youâ€™ve asked  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#9bc94291-67c3-4f15-95d7-bd3685233f91))
 
 
-Let’s see. I’m pushing hard, making the argument stronger than I actually believe, and doing anything to win. I’ve shifted from trying to select a vacation location to trying to win an argument.” ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#e8a039af-b73c-48f6-9c5b-c2090fcc26ca))
+Letâ€™s see. Iâ€™m pushing hard, making the argument stronger than I actually believe, and doing anything to win. Iâ€™ve shifted from trying to select a vacation location to trying to win an argument.â€ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#e8a039af-b73c-48f6-9c5b-c2090fcc26ca))
 
 
 When adrenaline does our thinking for us, our motives flow with the chemical tide. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#81a4e230-004e-45c7-9ada-d297a5bd72e0))
 
 
-Greta taught us that a small, mental intervention—the simple act of asking a potent question—can have a powerful effect on redirecting our hearts. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#bb343a61-27ea-474d-8799-c9c6079e7d52))
+Greta taught us that a small, mental interventionâ€”the simple act of asking a potent questionâ€”can have a powerful effect on redirecting our hearts. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#bb343a61-27ea-474d-8799-c9c6079e7d52))
 
 
- ‘What do I really want here?’ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#0dc15208-f784-4fd9-8af1-a6bed3b6ebde))
-
-## 3 Start with Heart: How to Stay Focused on What You Really Want
-
-
-
-Speak when you are angry and you will make the best speech you will ever regret.
-
-—AMBROSE BIERCE ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03.html#6c5cdafb-7d25-4283-b5e9-55b6a2b07682))
+ â€˜What do I really want here?â€™ ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec5.html#0dc15208-f784-4fd9-8af1-a6bed3b6ebde))
 
 ## OUR AUDACIOUS CLAIM
 
@@ -307,7 +307,7 @@ Speak when you are angry and you will make the best speech you will ever regret.
 Do you hold in ugly opinions only to have them tumble out as sarcastic remarks or cheap shots ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#d3715b45-ae10-466b-be20-a855a1344dfe))
 
 
-In the best companies, everyone holds everyone else accountable—regardless of level or position. The path to high productivity passes not through a static system, but through face-to-face conversations. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#9de03053-20e8-4434-a8ed-8d7c34c21f9a))
+In the best companies, everyone holds everyone else accountableâ€”regardless of level or position. The path to high productivity passes not through a static system, but through face-to-face conversations. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#9de03053-20e8-4434-a8ed-8d7c34c21f9a))
 
 
 getting people to hold one another accountable to the process. And that requires Crucial Conversations skills.
@@ -315,7 +315,7 @@ getting people to hold one another accountable to the process. And that requires
  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#d1e92f7d-a9c3-43c0-933d-d6ecee1382f9))
 
 
-When teams aren’t cooperating, they restructure. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#c435ab54-6dcc-49bf-bea8-79e44d2887c4))
+When teams arenâ€™t cooperating, they restructure. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#c435ab54-6dcc-49bf-bea8-79e44d2887c4))
 
 
 Influence change in colleagues who are bullying, conniving, dishonest, or incompetent. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#1a418a42-30d1-4df7-af26-2694b27be6e8))
@@ -323,7 +323,7 @@ Influence change in colleagues who are bullying, conniving, dishonest, or incomp
 
 Research Study: Long-Distance Loathing). ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch01lev1sec2.html#75629804-c5b4-4f4b-9053-9bc4eb6bf9b5))
 
-## HERE’S WHERE WE’RE GOING
+## HEREâ€™S WHERE WEâ€™RE GOING
 
 
 
@@ -339,21 +339,21 @@ tried my best to create the conditions where we could be both honest and respect
 
 
 
-We’re so uncomfortable with the immediate conflict that we accept the certainty of bad results to avoid the possibility of uncomfortable conversation. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec4.html#680f591c-c793-4b2c-8872-2cc1e7e04eb1))
+Weâ€™re so uncomfortable with the immediate conflict that we accept the certainty of bad results to avoid the possibility of uncomfortable conversation. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec4.html#680f591c-c793-4b2c-8872-2cc1e7e04eb1))
 
 ## OUR STORIES
 
 
 
-They recognize that while it’s true that at first we are in control of the stories we tell—after all, we do make them up of our own accord—once they’re told, the stories control us.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec4.html#859beee4-8463-4b1f-abb9-d6b791753e34))
+They recognize that while itâ€™s true that at first we are in control of the stories we tellâ€”after all, we do make them up of our own accordâ€”once theyâ€™re told, the stories control us.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec4.html#859beee4-8463-4b1f-abb9-d6b791753e34))
 
 
-If we take control of our stories, they won’t control us.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec4.html#26a05747-2032-4029-95c0-00b8e8c375cc))
+If we take control of our stories, they wonâ€™t control us.  ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch06lev1sec4.html#26a05747-2032-4029-95c0-00b8e8c375cc))
 
 ## WORK ON ME FIRST, US SECOND
 
 
 
-Our problem is not that our behavior degenerates. It’s that our motives do—a fact that we usually miss. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec1.html#d52c004d-78e1-446a-ba6e-0cfce3e25b1c))
+Our problem is not that our behavior degenerates. Itâ€™s that our motives doâ€”a fact that we usually miss. ([link](https://learning.oreilly.com/library/view/-/9780071771320/ch03lev1sec1.html#d52c004d-78e1-446a-ba6e-0cfce3e25b1c))
 
 [> Home](../README.md)

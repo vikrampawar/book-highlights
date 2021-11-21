@@ -46,17 +46,17 @@ The circuit breaker breaks the connection between microservices following the de
 
 Canary release is about a new version of a microservice available to a small subset of users in a production environment along with the old version ([link](https://learning.oreilly.com/library/view/-/9781789615791/c064cb9b-0532-4ac4-8cb1-44868176406d.xhtml#76f6174e-41ca-42b2-8b0d-f805834af000))
 
-## Service Mesh Architecture
-
-
-
-Service mesh has gained popularity since 2017, and it is still a relatively young concept ([link](https://learning.oreilly.com/library/view/-/9781789615791/9d975ee7-fc79-4df3-9884-74001f76cc63.xhtml#abf5e148-9d0c-4485-af0e-246ea45d7dfa))
-
 ## Cloud-native infrastructure
 
 
 
 Red Hat OpenShift, Cloud Foundry, Apache Mesos, and others fill the hybrid cloud model ([link](https://learning.oreilly.com/library/view/-/9781789615791/91f3898f-ce41-4918-bb8d-c0cfb9907745.xhtml#c9cf43aa-417c-49bc-b6bb-bcd99ecea4f6))
+
+## Service Mesh Architecture
+
+
+
+Service mesh has gained popularity since 2017, and it is still a relatively young concept ([link](https://learning.oreilly.com/library/view/-/9781789615791/9d975ee7-fc79-4df3-9884-74001f76cc63.xhtml#abf5e148-9d0c-4485-af0e-246ea45d7dfa))
 
 ## Who this book is for
 
@@ -68,7 +68,7 @@ This book covers the operation part of DevOps, and so is most suited for operati
 
 
 
-One nugget of wisdom from Jeff Bezos was two-pizza teams – individual teams shouldn't be larger than what two pizzas can feed ([link](https://learning.oreilly.com/library/view/-/9781789615791/3fd7bd40-c129-4831-b772-fcd4b4c693dc.xhtml#7dd69f4a-6eb8-4293-b407-70b0a3c384c2))
+One nugget of wisdom from Jeff Bezos was two-pizza teams â€“ individual teams shouldn't be larger than what two pizzas can feed ([link](https://learning.oreilly.com/library/view/-/9781789615791/3fd7bd40-c129-4831-b772-fcd4b4c693dc.xhtml#7dd69f4a-6eb8-4293-b407-70b0a3c384c2))
 
 ## Container orchestration platforms
 
@@ -78,6 +78,18 @@ Decoupling is the central theme of a container orchestration platform ([link](ht
 
 
 Red Hat integrated CoreOS with OpenShift starting with version 4.1 to provide a container orchestration platform for enterprises that has zero downtime. It's a self-updating operating system with Kubernetes++ ([link](https://learning.oreilly.com/library/view/-/9781789615791/2218ac3b-059e-4f51-bc88-ea43a42b67d5.xhtml#c877623a-0cfc-4311-8f21-cf7628ae1f88))
+
+## Preface
+
+
+
+A service mesh is a framework on top of a cloud-native microservices application. Istio, Linkerd, and Consul are all service mesh implementations. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#ce0f9fc6-1e6d-4fd6-9e20-5fad5af91a74))
+
+
+William Morgan, the creator of Linkerd, which is an incubating project at CNCF, coined the term service mesh. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#3344d8f5-6aca-480a-a900-ffe670283310))
+
+
+It assumes that you have prior knowledge of Docker and Kubernetes. As a developer, knowing Service-Oriented Architecture (SOA) and Enterprise Service Bus (ESB) patterns will be beneficial, but not mandatory. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#96893470-ee42-437f-ac4a-4a9427973705))
 
 ## What is a microservice?
 
@@ -94,29 +106,17 @@ The microservices architecture eliminated the need for a centralized ESB ([link]
 
 The natural transition of SOA/ESB is toward microservices, in which services are decoupled from a monolithic ESB ([link](https://learning.oreilly.com/library/view/-/9781789615791/de27c1c1-0d69-41c5-a387-f1b68145ad3a.xhtml#ea1f006d-7542-4943-997c-634d0c102a4b))
 
-## Preface
+## API Gateway
 
 
 
-A service mesh is a framework on top of a cloud-native microservices application. Istio, Linkerd, and Consul are all service mesh implementations. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#ce0f9fc6-1e6d-4fd6-9e20-5fad5af91a74))
-
-
-William Morgan, the creator of Linkerd, which is an incubating project at CNCF, coined the term service mesh. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#3344d8f5-6aca-480a-a900-ffe670283310))
-
-
-It assumes that you have prior knowledge of Docker and Kubernetes. As a developer, knowing Service-Oriented Architecture (SOA) and Enterprise Service Bus (ESB) patterns will be beneficial, but not mandatory. ([link](https://learning.oreilly.com/library/view/-/9781789615791/b59ac405-dba8-4a5c-9ad4-a7843043b30b.xhtml#96893470-ee42-437f-ac4a-4a9427973705))
+In the preceding diagram, the API gateway is used to expose the three-tier and SOA/ESB-based services in which the business logic contained in the ESB still hinders the development of the independent services ([link](https://learning.oreilly.com/library/view/-/9781789615791/ca3e8a26-b91d-479c-b2aa-b9dbe8c9267a.xhtml#ff449235-6b5b-4992-b516-b0a3af1989a3))
 
 ## An introduction to CNAs
 
 
 
 One of the most popular cloud-native application development platforms is known as Red Hat OpenShift, a platform where we can focus on writing the business logic for the application. Containerization happens automatically, without having to write any code, while deployment (production or canary) occurs automatically through a CI/CD pipeline. ([link](https://learning.oreilly.com/library/view/-/9781789615791/5d1b86d2-90d6-4d36-a233-013de8ddeda7.xhtml#dcdd9860-ddc9-4bcf-ab47-7d15ae4ce3b8))
-
-## API Gateway
-
-
-
-In the preceding diagram, the API gateway is used to expose the three-tier and SOA/ESB-based services in which the business logic contained in the ESB still hinders the development of the independent services ([link](https://learning.oreilly.com/library/view/-/9781789615791/ca3e8a26-b91d-479c-b2aa-b9dbe8c9267a.xhtml#ff449235-6b5b-4992-b516-b0a3af1989a3))
 
 ## Shifting Dev responsibilities to Ops
 

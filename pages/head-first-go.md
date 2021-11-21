@@ -1,7 +1,7 @@
 # Head First Go
 
 [> Home](../README.md)
-## 1. let’s get going: Syntax Basics
+## 1. letâ€™s get going: Syntax Basics
 
 
 

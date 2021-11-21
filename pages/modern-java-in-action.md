@@ -35,7 +35,7 @@ long howManyDishes = menu.stream().collect(Collectors.counting()); ([link](https
 Vikram: [Demonstrates the counting method.]
 
 
-the groupingBy recipe says, ìMake a Map whose keys are (currency) buckets and whose values are a list of elements in those buckets.î ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_017.html#aba1e5c9-e2ce-435f-b621-eefdb8d8323c))
+the groupingBy recipe says, ‚ÄúMake a Map whose keys are (currency) buckets and whose values are a list of elements in those buckets.‚Äù ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_017.html#aba1e5c9-e2ce-435f-b621-eefdb8d8323c))
 
 
 Map<Currency, List<Transaction>> transactionsByCurrencies =
@@ -99,25 +99,25 @@ stream as a set of values spread out in time. In contrast, a collection is a set
 Note that, similarly to iterators, a stream can be traversed only once. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#5f5c1941-fee3-40fb-97e5-e99a96df1b0d))
 
 
-By contrast, a stream is a conceptually fixed data structure (you canít add or remove elements from it) whose elements are computed on demand ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#a57c0cc5-bd90-4e97-ac6b-a68aa6e52d2d))
+By contrast, a stream is a conceptually fixed data structure (you can‚Äôt add or remove elements from it) whose elements are computed on demand ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#a57c0cc5-bd90-4e97-ac6b-a68aa6e52d2d))
 
 
-A collection is an in-memory data structure that holds all the values the data structure currently hasóevery element in the collection has to be computed before it can be added to the collection.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#17f6e594-1373-4dc7-bf7a-717a8b570cbd))
+A collection is an in-memory data structure that holds all the values the data structure currently has‚Äîevery element in the collection has to be computed before it can be added to the collection.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#17f6e594-1373-4dc7-bf7a-717a8b570cbd))
 
 
-Internal iterationó In contrast to collections, which are iterated explicitly using an iterator, stream operations do the iteration behind the scenes for you.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#68ea36b0-1e1c-4fed-814f-d381a2f9051a))
+Internal iteration‚Äî In contrast to collections, which are iterated explicitly using an iterator, stream operations do the iteration behind the scenes for you.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#68ea36b0-1e1c-4fed-814f-d381a2f9051a))
 
 
-First, what exactly is a stream? A short definition is ìa sequence of elements from a source that supports data-processing operations.î ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#8db0a20c-c523-4f4c-96ac-546e6f078a59))
+First, what exactly is a stream? A short definition is ‚Äúa sequence of elements from a source that supports data-processing operations.‚Äù ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_015.html#8db0a20c-c523-4f4c-96ac-546e6f078a59))
 
-## Chapter 1. Java 8, 9, 10, and 11: whatís happening?
+## Chapter 1. Java 8, 9, 10, and 11: what‚Äôs happening?
 
 
 
 File[] hiddenFiles = new File(".").listFiles(File::isHidden); ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#870c0dc4-57b0-4636-83e2-1b7d1233f2ea))
 
 
-And this means using parallel processingósomething Java wasnít previously friendly to ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#6564539d-fb21-4c2e-8a4a-6be0f74f99fc))
+And this means using parallel processing‚Äîsomething Java wasn‚Äôt previously friendly to ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#6564539d-fb21-4c2e-8a4a-6be0f74f99fc))
 
 
 It gives you a new concise way to express behavior parameterization ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#66025962-d6b1-43e1-9c10-b809fb2330a9))
@@ -135,7 +135,7 @@ Its evolution (via the addition of new features) from Java 1.1 (1997) to Java 7 
 Vikram: [1.1 in 97, 8 in 2014, 9 in 2017, 10 in 2018]
 
 
-Multicore processors arenít fully served by pre-Java-8 programming practice. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#7b0c3f72-4255-484f-87cd-4a17bfead14e))
+Multicore processors aren‚Äôt fully served by pre-Java-8 programming practice. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#7b0c3f72-4255-484f-87cd-4a17bfead14e))
 
 
 Vikram: [Because, the only way to do it was  by using Threads and Synchronization which was error prone ]
@@ -160,7 +160,25 @@ Java 8 introduced the Optional<T> class that, if used consistently, can help you
 Vikram: [To avoid null-pointer exceptions, use Optional<T> class]
 
 
-The key motivation for this is that you can now program in Java 8 at a higher level of abstraction, structuring your thoughts of turning a stream of this into a stream of that (similar to how you think when writing database queries) rather than one item at a time. Another advantage is that Java 8 can transparently run your pipeline of Stream operations on several CPU cores on disjoint parts of the inputóthis is parallelism almost for free instead of hard work using Threads.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#fe4e77c4-b416-4dbc-b07c-ee8598b5017c))
+The key motivation for this is that you can now program in Java 8 at a higher level of abstraction, structuring your thoughts of turning a stream of this into a stream of that (similar to how you think when writing database queries) rather than one item at a time. Another advantage is that Java 8 can transparently run your pipeline of Stream operations on several CPU cores on disjoint parts of the input‚Äîthis is parallelism almost for free instead of hard work using Threads.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_011.html#fe4e77c4-b416-4dbc-b07c-ee8598b5017c))
+
+## Chapter 17. Reactive programming
+
+
+
+These techniques not only have the benefit of being cheaper than threads, but also have a major advantage from developers‚Äô point of view: they raise the level of abstraction of implementing concurrent and asynchronous applications, allowing developers to concentrate on the business requirements instead of dealing with typical problems of low-level multithreading issues such as synchronization, race conditions, and deadlocks. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#800b4713-e9af-4fce-aa1f-0c3c4f14fe62))
+
+
+Vikram: [reactive techniques]
+
+
+The Reactive Manifesto (https://www.reactivemanifesto.org)‚Äîdeveloped in 2013 and 2014 by Jonas Bon√©r, Dave Farley, Roland Kuhn, and Martin Thompson‚Äîformalized a set of core principles for developing reactive applications and systems. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#20ea50e5-451d-4925-aa4e-b1ecee9bbbb9))
+
+
+Reactive programming addresses these issues by allowing you to process and combine streams of data items coming from different systems and sources in an asynchronous way ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#38794196-2418-4ea2-893c-2a112d9e3072))
+
+
+Vikram: [The issues are : big data, expectation of faster response times, diversity of environments]
 
 ## Preface
 
@@ -170,24 +188,6 @@ We quickly realized that by combining our energy and diverse backgrounds we coul
 
 
 Vikram: [a book written for the long term and hopefully concentrates on concepts]
-
-## Chapter 17. Reactive programming
-
-
-
-These techniques not only have the benefit of being cheaper than threads, but also have a major advantage from developersí point of view: they raise the level of abstraction of implementing concurrent and asynchronous applications, allowing developers to concentrate on the business requirements instead of dealing with typical problems of low-level multithreading issues such as synchronization, race conditions, and deadlocks. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#800b4713-e9af-4fce-aa1f-0c3c4f14fe62))
-
-
-Vikram: [reactive techniques]
-
-
-The Reactive Manifesto (https://www.reactivemanifesto.org)ódeveloped in 2013 and 2014 by Jonas BonÈr, Dave Farley, Roland Kuhn, and Martin Thompsonóformalized a set of core principles for developing reactive applications and systems. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#20ea50e5-451d-4925-aa4e-b1ecee9bbbb9))
-
-
-Reactive programming addresses these issues by allowing you to process and combine streams of data items coming from different systems and sources in an asynchronous way ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_031.html#38794196-2418-4ea2-893c-2a112d9e3072))
-
-
-Vikram: [The issues are : big data, expectation of faster response times, diversity of environments]
 
 ## Chapter 2. Passing code with behavior parameterization
 
@@ -201,7 +201,7 @@ Thread t = new Thread(() -> System.out.println("Hello world")); ([link](https://
 Vikram: [()->{}]
 
 
-the behavior of the filterApples method depends on the code you pass to it via the ApplePredicate object. Youíve parameterized the behavior of the filterApples method! ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_012.html#b2bba6c1-2926-4c95-986a-445a4d1577bd))
+the behavior of the filterApples method depends on the code you pass to it via the ApplePredicate object. You‚Äôve parameterized the behavior of the filterApples method! ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_012.html#b2bba6c1-2926-4c95-986a-445a4d1577bd))
 
 
 Vikram: [The code is passed as a lambda. A lambda to filter green apples, another to filter heavy apples etc.]
@@ -225,24 +225,6 @@ Behavior parameterization is the ability for a method to take multiple different
 
 Callable interface is used to model a task that returns a result.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_012.html#deef1949-e718-4734-ad23-5281c5ec5aa6))
 
-## About this book
-
-
-
-The second edition of this book, Modern Java in Action: Lambdas, Streams, Functional and Reactive Programming, is written to get you over that initial hump of ìsounds good in principle, but itís all a bit new and unfamiliarî and into coding like a native ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#931ed7a3-fe3b-45e0-bc3e-ab57835fa0db))
-
-
-But Java 8 can optimize operations on streams in a way that Java canít do for collectionsófor example, it can group together several operations on the same stream so that the data is traversed only once instead of expensively traversing it multiple times. Even better, Java can automatically parallelize stream operations for you (unlike collections). ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#2d7f6880-039d-4f97-b1b3-93689eb6baef))
-
-
-Vikram: [The benefit is that multiple operations can be done in a single pass and these can be parallelized.]
-
-
-Thus, you can process streams that are too big to fit in your computer memory. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#4bd4406e-d88e-4f9b-b172-d4d16a6ba5b1))
-
-
-Vikram: [One major use case where Stream processing is required.]
-
 ## Chapter 5. Working with streams
 
 
@@ -250,13 +232,13 @@ Vikram: [One major use case where Stream processing is required.]
 The methods takeWhile and dropWhile are more efficient than a filter when you know that the source is sorted ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#07c6f0d7-7562-46f3-940c-ee191bae5c44))
 
 
-In comparison, our approach using iterate was purely immutable; you didnít modify existing state but were creating new tuples at each iteration. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#76e88376-ca46-4c24-8f95-f4ca636116fc))
+In comparison, our approach using iterate was purely immutable; you didn‚Äôt modify existing state but were creating new tuples at each iteration. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#76e88376-ca46-4c24-8f95-f4ca636116fc))
 
 
 Vikram: [The approach using generate uses state of the previous call and is therefore mutable.]
 
 
-The generate method on IntStream takes an IntSupplier instead of a Supplier<T>. For example, hereís how to generate an infinite stream of ones:
+The generate method on IntStream takes an IntSupplier instead of a Supplier<T>. For example, here‚Äôs how to generate an infinite stream of ones:
 
 IntStream ones = IntStream.generate(() -> 1); ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#16d54366-7a07-4c20-87c2-60280e2365b4))
 
@@ -311,7 +293,7 @@ Arrays.stream()that takes an array and produces a stream: ([link](https://learni
 that limit(n) and skip(n) are complementary ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#072be497-6810-495b-be1b-97c6e6acffa5))
 
 
-Streams support the limit(n) method, which returns another stream thatís no longer than a given size.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#d074bcca-2114-4e84-9b5e-66f5674b179a))
+Streams support the limit(n) method, which returns another stream that‚Äôs no longer than a given size.  ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#d074bcca-2114-4e84-9b5e-66f5674b179a))
 
 
 it even works if there are an infinite number of remaining elements! ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#1906c5e1-b7a0-4961-b453-17631775e33b))
@@ -330,5 +312,23 @@ Java 9 added two new methods that are useful for efficiently selecting elements 
 
 
 Streams API can work out several optimizations behind the scenes. In addition, using internal iteration, the Streams API can decide to run your code in parallel ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_016.html#57853e3b-6b44-4f2b-bc89-af015fd4cb41))
+
+## About this book
+
+
+
+The second edition of this book, Modern Java in Action: Lambdas, Streams, Functional and Reactive Programming, is written to get you over that initial hump of ‚Äúsounds good in principle, but it‚Äôs all a bit new and unfamiliar‚Äù and into coding like a native ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#931ed7a3-fe3b-45e0-bc3e-ab57835fa0db))
+
+
+But Java 8 can optimize operations on streams in a way that Java can‚Äôt do for collections‚Äîfor example, it can group together several operations on the same stream so that the data is traversed only once instead of expensively traversing it multiple times. Even better, Java can automatically parallelize stream operations for you (unlike collections). ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#2d7f6880-039d-4f97-b1b3-93689eb6baef))
+
+
+Vikram: [The benefit is that multiple operations can be done in a single pass and these can be parallelized.]
+
+
+Thus, you can process streams that are too big to fit in your computer memory. ([link](https://learning.oreilly.com/library/view/-/9781617293566/kindle_split_007.html#4bd4406e-d88e-4f9b-b172-d4d16a6ba5b1))
+
+
+Vikram: [One major use case where Stream processing is required.]
 
 [> Home](../README.md)

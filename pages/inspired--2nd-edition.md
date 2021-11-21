@@ -11,7 +11,7 @@ The main obstacle to rapid delivery is often technical debt, and it is the respo
 
 
 
-We need designónot just as a service to make our product beautifulóbut to discover the right product. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c11.xhtml#40bd5567-9b94-42f1-b397-32af345a9201))
+We need design‚Äînot just as a service to make our product beautiful‚Äîbut to discover the right product. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c11.xhtml#40bd5567-9b94-42f1-b397-32af345a9201))
 
 ## CHAPTER 6: The Root Causes of Failed Product Efforts
 
@@ -62,13 +62,21 @@ Risks are tackled up front, rather than at the end. ([link](https://learning.ore
 I realized that the state of the art was very different from the state of the practice. ([link](https://learning.oreilly.com/library/view/-/9781119387503/p01.xhtml#3f3ebbe5-877e-49ad-8834-eed623258ad7))
 
 
-Our young team learned something very profoundósomething many teams have discovered the hard way: It doesn't matter how good your engineering team is if they are not given something worthwhile to build. ([link](https://learning.oreilly.com/library/view/-/9781119387503/p01.xhtml#1a8903af-8914-4790-8f6c-4d9b1900d2e8))
+Our young team learned something very profound‚Äîsomething many teams have discovered the hard way: It doesn't matter how good your engineering team is if they are not given something worthwhile to build. ([link](https://learning.oreilly.com/library/view/-/9781119387503/p01.xhtml#1a8903af-8914-4790-8f6c-4d9b1900d2e8))
 
-## CHAPTER 2: Technology?Powered Products and Services
+## CHAPTER 2: Technology‚ÄêPowered Products and Services
 
 
 
-Frankly, there are already a wide variety of readily accessible resources for non?tech products such as most consumer packaged goods, and for product managers of these non?tech products. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c02.xhtml#2debb37a-b12a-45f5-8cc8-8c0fc2439ce3))
+Frankly, there are already a wide variety of readily accessible resources for non‚Äêtech products such as most consumer packaged goods, and for product managers of these non‚Äêtech products. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c02.xhtml#2debb37a-b12a-45f5-8cc8-8c0fc2439ce3))
+
+## CHAPTER 1: Behind Every Great Product
+
+
+
+Further, this product management role is very distinct from the design, engineering, marketing, or project manager roles.
+
+This book is intended for these people. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c01.xhtml#51210b35-eee4-49b8-96fd-0e5946176a02))
 
 ## CHAPTER 20: Principles of Structuring Product Teams
 
@@ -79,19 +87,11 @@ Be sure to staff these common services teams with strong and highly technical pr
 
 Vikram: [can there be a integration platform product manager]
 
-## CHAPTER 1: Behind Every Great Product
-
-
-
-Further, this product management role is very distinct from the design, engineering, marketing, or project manager roles.
-
-This book is intended for these people. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c01.xhtml#51210b35-eee4-49b8-96fd-0e5946176a02))
-
 ## CHAPTER 3: Startups: Getting to Product/Market Fit
 
 
 
-Working at a startupóracing toward product/market fitóis usually stressful, exhausting, and risky. But it can also be an amazingly positive experience, and if things go well, a financially rewarding one too ([link](https://learning.oreilly.com/library/view/-/9781119387503/c03.xhtml#61e25119-de67-4bce-8e04-6809203157a8))
+Working at a startup‚Äîracing toward product/market fit‚Äîis usually stressful, exhausting, and risky. But it can also be an amazingly positive experience, and if things go well, a financially rewarding one too ([link](https://learning.oreilly.com/library/view/-/9781119387503/c03.xhtml#61e25119-de67-4bce-8e04-6809203157a8))
 
 
 The few that succeed are usually those that are really good at product discovery, which is a major topic of this book. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c03.xhtml#39924f76-505d-441d-9a87-9f4af9944413))
@@ -105,7 +105,7 @@ The MVP should be a prototype, not a product. ([link](https://learning.oreilly.c
 
 The Lean Startup by Eric Ries in 2011.
 
-Eric's book did a great deal to help product teams, and to me, it is a must?read book for all product people. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#4d5711e4-9b8f-4ad9-a6e9-5bc4ec3ee60f))
+Eric's book did a great deal to help product teams, and to me, it is a must‚Äêread book for all product people. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#4d5711e4-9b8f-4ad9-a6e9-5bc4ec3ee60f))
 
 
 product/market fit.
@@ -119,7 +119,7 @@ The purpose of all these prototypes and experiments in discovery is to quickly c
 they're all about learning fast and cheap. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#203feef8-bcb8-4b70-9cbd-37655040b13c))
 
 
-To set your expectations, strong teams normally test many product ideas each weekóon the order of 10 to 20 or more per week. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#95d7d19f-a320-4bd7-a57e-ce3687189243))
+To set your expectations, strong teams normally test many product ideas each week‚Äîon the order of 10 to 20 or more per week. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#95d7d19f-a320-4bd7-a57e-ce3687189243))
 
 
 discovery is a validated product backlog. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#5aeb6d96-2179-4506-9195-0ff949c48054))
@@ -134,7 +134,7 @@ Can our stakeholders support this? ([link](https://learning.oreilly.com/library/
 We need to discover the product to be built, and we need to deliver that product to market. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#6365eea7-cbc0-4aec-b9d1-4798cdeaeeb9))
 
 
-In general, for e?commerce businesses, product includes everything except the actual merchandise being sold. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#463b0c6f-87dc-411f-ba20-376faced0038))
+In general, for e‚Äêcommerce businesses, product includes everything except the actual merchandise being sold. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c08.xhtml#463b0c6f-87dc-411f-ba20-376faced0038))
 
 ## CHAPTER 9: Principles of Strong Product Teams
 
@@ -143,7 +143,7 @@ In general, for e?commerce businesses, product includes everything except the ac
 To be absolutely clear, the product manager is not the boss of anyone on the product team. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c09.xhtml#23dca505-57ae-47db-9496-80b1df310a2f))
 
 
-John Doerr, the famous Silicon Valley venture capitalist: ìWe need teams of missionaries, not teams of mercenaries.î ([link](https://learning.oreilly.com/library/view/-/9781119387503/c09.xhtml#3697cdfb-a272-4c4b-998c-448fb12bb17e))
+John Doerr, the famous Silicon Valley venture capitalist: ‚ÄúWe need teams of missionaries, not teams of mercenaries.‚Äù ([link](https://learning.oreilly.com/library/view/-/9781119387503/c09.xhtml#3697cdfb-a272-4c4b-998c-448fb12bb17e))
 
 
 A product team is a group of people who bring together different specialized skills and responsibilities and feel real ownership for a product or at least a substantial piece of a larger product ([link](https://learning.oreilly.com/library/view/-/9781119387503/c09.xhtml#2c159866-9029-4f73-b22a-4ce87b5d1274))
@@ -158,16 +158,16 @@ It's all about the product team. ([link](https://learning.oreilly.com/library/vi
 
 
 
-A good general marketing course will often cover these topics as well. The key is to make sure you gain a big?picture understanding of how businesses work. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#ae1c3a70-0c6f-4075-addc-91ebf5619d5f))
+A good general marketing course will often cover these topics as well. The key is to make sure you gain a big‚Äêpicture understanding of how businesses work. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#ae1c3a70-0c6f-4075-addc-91ebf5619d5f))
 
 
 It normally takes about two to three months of dedicated work for a new product manager to get up to speed. This assumes you have a manager who can give you the help and access you need to gain this expertise, including lots of access to customers, access to data (and when necessary, training in the tools to access that data), access to key stakeholders, and time to learn your product and industry inside and out ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#6bc3abff-47ed-469b-9d76-575321fac995))
 
 
-You can start to see why this role is a proving ground for future CEOs and why the best VCs only want to invest in a company that has one of these proven product people as one of the co?founders ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#e0fa802a-4c29-4129-bfd2-8a1132f29568))
+You can start to see why this role is a proving ground for future CEOs and why the best VCs only want to invest in a company that has one of these proven product people as one of the co‚Äêfounders ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#e0fa802a-4c29-4129-bfd2-8a1132f29568))
 
 
-Every business depends on customers. And what customers buyóor choose to useóis your product. The product is the result of what the product team builds, and the product manager is responsible for what the product team will build.
+Every business depends on customers. And what customers buy‚Äîor choose to use‚Äîis your product. The product is the result of what the product team builds, and the product manager is responsible for what the product team will build.
 
 So, this is why the product manager is the person we hold responsible and accountable for the success of the product. ([link](https://learning.oreilly.com/library/view/-/9781119387503/c10.xhtml#ad649521-4790-42fe-9309-aec6dc712407))
 

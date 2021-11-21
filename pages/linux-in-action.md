@@ -17,6 +17,6 @@ The trick is finding a way to learn the high-priority skills without turning the
 
 
 
-But you shouldn’t forget the StackExchange ([link](https://learning.oreilly.com/library/view/-/9781617294938/kindle_split_006.html#9b7e64f4-47c5-46d3-bbe3-88d924b16b65))
+But you shouldnâ€™t forget the StackExchange ([link](https://learning.oreilly.com/library/view/-/9781617294938/kindle_split_006.html#9b7e64f4-47c5-46d3-bbe3-88d924b16b65))
 
 [> Home](../README.md)

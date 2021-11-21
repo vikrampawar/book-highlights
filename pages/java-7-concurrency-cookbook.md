@@ -35,6 +35,13 @@ In other words, every method declared with the synchronized keyword is a critica
 
 Vikram: [If an object has two synchronized methods, and one thread is accessing one of those synchronized methods, another thread cannot access the other synchronized method. It's as if all synchronized methods within a object form a critical section that only one thread can access at time. However, static synchronized method can still be accessed by other threads. ]
 
+## 2. Basic Thread Synchronization
+
+
+
+The solution for these problems comes with the concept of critical section
+. A critical section is a block of code that accesses a shared resource and can't be executed by more than one thread at the same time. ([link](https://learning.oreilly.com/library/view/-/9781849687881/ch02.html#5c269daf-b85b-47a0-827f-658bb21b5499))
+
 ## Synchronizing a block of code with a Lock
 
 
@@ -49,12 +56,5 @@ One of the new functionalities is implemented by the tryLock() method. This meth
 
 
 Vikram: [When using synchronized, threads wait, whereas with tryLock(), thread returns]
-
-## 2. Basic Thread Synchronization
-
-
-
-The solution for these problems comes with the concept of critical section
-. A critical section is a block of code that accesses a shared resource and can't be executed by more than one thread at the same time. ([link](https://learning.oreilly.com/library/view/-/9781849687881/ch02.html#5c269daf-b85b-47a0-827f-658bb21b5499))
 
 [> Home](../README.md)

@@ -5,10 +5,10 @@
 
 
 
-There appears to be a clear correlation between the success of designers’ work and the rigour of their working methods.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#1730d127-d9a5-4241-b167-54cb63233c65))
+There appears to be a clear correlation between the success of designersâ€™ work and the rigour of their working methods.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#1730d127-d9a5-4241-b167-54cb63233c65))
 
 
-3D modelling makes it quite feasible to produce bespoke door furniture and other components hitherto sourced from manufacturers’ catalogues.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#49101a7e-9fc2-4e7c-b72b-c53584ba3392))
+3D modelling makes it quite feasible to produce bespoke door furniture and other components hitherto sourced from manufacturersâ€™ catalogues.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#49101a7e-9fc2-4e7c-b72b-c53584ba3392))
 
 
 Already there are examples of intricate CNC- produced mouldings that may encourage a return to the use of ornament in interiors. ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#bffe28af-2a58-4775-aeee-cf537c3573cc))
@@ -26,7 +26,7 @@ The computer-made image is the most effective way of representing materiality an
 A critical eye, rather than the computer or the hand, is what makes a drawing good.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#70a6a1b1-8d09-42b9-abae-adaa394ac000))
 
 
-However, using computers it is comparatively simple to represent these essentials with a great – sometimes unsettling – degree of realism. ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#c682c2d1-66a6-453f-9082-5328a5965a61))
+However, using computers it is comparatively simple to represent these essentials with a great â€“ sometimes unsettling â€“ degree of realism. ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#c682c2d1-66a6-453f-9082-5328a5965a61))
 
 
 The act of drawing structures thinking and the coherent progression of ideas.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/06_introduction-title.html#b0a0fb7a-5e24-40c9-8e65-38068b4f2495))
@@ -44,7 +44,7 @@ Plans are essentially horizontal sections nominally drawn at 1200mm (4 feet) abo
 The intersection of the arcs, which represent the length of the wall from B to C and the diagonal from A, locate corner C.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/07_chapter-title-1.html#e5c23e8e-9d0d-4aff-9e6b-79f8f58a5fb2))
 
 
-The ‘running’ dimensions for each wall are normally taken from the left-hand corner as one looks at the wall.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/07_chapter-title-1.html#11c96119-3cdb-4c74-a864-b54aa13fd990))
+The â€˜runningâ€™ dimensions for each wall are normally taken from the left-hand corner as one looks at the wall.  ([link](https://learning.oreilly.com/library/view/-/9781780676517/07_chapter-title-1.html#11c96119-3cdb-4c74-a864-b54aa13fd990))
 
 
 A diagonal, together with the two walls it connects, represents the sides of a triangle, and when these are drawn to scale the angle of the intersection of the walls is established automatically and accurately. ([link](https://learning.oreilly.com/library/view/-/9781780676517/07_chapter-title-1.html#50ee5dc9-a162-4d07-b1b6-5f4855e88779))

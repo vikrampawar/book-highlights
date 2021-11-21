@@ -1,8 +1,29 @@
-# Core Java Volume I—Fundamentals, Eleventh Edition
+# Core Java Volume Iâ€”Fundamentals, Eleventh Edition
 
 [> Home](../README.md)
 ## Chapter 6: Interfaces, Lambda Expressions, and Inner Classes
 
+
+
+One of the interfaces, BiFunction<T, U, R>, describes functions with parameter types T and U and return type R. You can save our string comparison lambda in a variable of that type: ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#fabcfc72-f2f6-4bf5-91f6-2a408640a4bf))
+
+
+Vikram: [You can think of it as takes any two parameters  and  returns one.]
+
+
+You never specify the result type of a lambda expression. It is always inferred from context. For example, the expression ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#353f3d0b-41d0-4e66-bce8-ac093703ec86))
+
+
+A lambda expression is a block of code that you can pass around so it can be executed later, once or multiple times ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#0d71d794-a1e9-4413-af90-545062013a5c))
+
+
+The rule is that any captured variable in a lambda expression must be effectively final.  ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#65c696a3-1f94-4666-8251-cbcdf2341272))
+
+
+ a lambda expression, you can only reference variables whose value doesnâ€™t change ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#65f85ef3-cde4-43dd-a943-b30a4dd3ba2d))
+
+
+The technical term for a block of code together with the values of the free variables is a closure. ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#ba87835b-197b-43a9-84ed-442c072b6c8b))
 
 
 6.2.6 Variable Scope
@@ -12,7 +33,7 @@ Often, you want to be able to access variables from an enclosing method or class
 Vikram: [Continue from here 28/09/2021]
 
 
-Note that a lambda expression can only be rewritten as a method reference if the body of the lambda expression calls a single method and doesn’t do anything else ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#f49fbb4d-020f-4af4-9319-5ae5c591c5c9))
+Note that a lambda expression can only be rewritten as a method reference if the body of the lambda expression calls a single method and doesnâ€™t do anything else ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#f49fbb4d-020f-4af4-9319-5ae5c591c5c9))
 
 
 In the second variant, the first parameter becomes the implicit parameter of the method. For example, String::compareToIgnoreCase is the same as (x, y) -> x.compareToIgnoreCase(y). ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#29cee4e1-d641-4b2a-8821-76b959da2ed5))
@@ -33,9 +54,6 @@ It is best to think of a lambda expression as a function, not an object, and to 
 You can supply a lambda expression whenever an object of an interface with a single abstract method is expected. Such an interface is called a functional interface. ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#65389fae-f2e5-47d7-96df-7fb2796669cb))
 
 
-You never specify the result type of a lambda expression ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#ca4441bf-7821-4193-8869-9da45a5b3e70))
-
-
 The key point is that the actionPerformed method contains code that you want to execute later ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter6.xhtml#775b4b59-931d-45f4-a204-4a310f816f62))
 
 
@@ -52,6 +70,18 @@ Chapter 6Interfaces, Lambda Expressions, and Inner Classes ([link](https://learn
 
 
 Vikram: [Chapter 6 notes]
+
+## Chapter 12: Concurrency
+
+
+
+var contents = new String(Files.readAllBytes(
+   Path.of("alice.txt")), StandardCharsets.UTF_8); // read file into string
+String[] words = contents.split("[\P{L}]+"); // split along nonletters
+Arrays.parallelSort(words); ([link](https://learning.oreilly.com/library/view/-/9780135167199/chapter12.xhtml#cd01ff87-5b86-411f-81f5-66002cf94923))
+
+
+Vikram: [Read file contents into a string in one line]
 
 ## Chapter 8: Generic Programming
 

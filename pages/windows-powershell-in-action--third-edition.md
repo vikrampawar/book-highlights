@@ -5,7 +5,7 @@
 
 
 
-The Monad, of which we shall here speak, is nothing but a simple substance, which enters into compounds. By ìsimpleî is meant ìwithout parts.î ([link](https://learning.oreilly.com/library/view/-/9781633430297/kindle_split_011.html#3712bc53-c7ec-4344-af36-3425b31eaedc))
+The Monad, of which we shall here speak, is nothing but a simple substance, which enters into compounds. By ‚Äúsimple‚Äù is meant ‚Äúwithout parts.‚Äù ([link](https://learning.oreilly.com/library/view/-/9781633430297/kindle_split_011.html#3712bc53-c7ec-4344-af36-3425b31eaedc))
 
 
 Vikram: [Windows powershell was named monad initially. Monad is the simplest irreducible thing from which other things are made. ]

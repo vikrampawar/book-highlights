@@ -26,7 +26,7 @@ updates to a single key are atomic.  ([link](https://learning.oreilly.com/librar
 This provides read-after-write consistency. ([link](https://learning.oreilly.com/library/view/-/9781260470192/ch2.xhtml#5bc2ec78-c88f-4220-9b37-ffb2fcb31897))
 
 
-The S3 service is intended to be a ìwrite once, read manyî use case ([link](https://learning.oreilly.com/library/view/-/9781260470192/ch2.xhtml#0c1846a6-c7cc-4cdb-a72f-fbc3f9b12658))
+The S3 service is intended to be a ‚Äúwrite once, read many‚Äù use case ([link](https://learning.oreilly.com/library/view/-/9781260470192/ch2.xhtml#0c1846a6-c7cc-4cdb-a72f-fbc3f9b12658))
 
 
 The name of the bucket must be unique, which means you cannot have two buckets with the same name even across multiple regions ([link](https://learning.oreilly.com/library/view/-/9781260470192/ch2.xhtml#14461d8a-db47-4ad4-806a-b9dfc88ca032))

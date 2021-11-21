@@ -5,7 +5,7 @@
 
 
 
-Thereís been broad agreement in the Continuous Delivery community that tools donít matter ever since Dave Farley and Jez Humble wrote Continuous Delivery. ([link](https://learning.oreilly.com/library/view/-/9781491986011/foreword01.html#1a46785c-cff7-422e-ae01-a21109ec367b))
+There‚Äôs been broad agreement in the Continuous Delivery community that tools don‚Äôt matter ever since Dave Farley and Jez Humble wrote Continuous Delivery. ([link](https://learning.oreilly.com/library/view/-/9781491986011/foreword01.html#1a46785c-cff7-422e-ae01-a21109ec367b))
 
 ## Preface
 
@@ -17,7 +17,7 @@ We have a web page for this book, where we list errata, examples, and any additi
 Supplemental material (code examples, exercises, etc.) is available for download at https://github.com/continuous-delivery-in-java. ([link](https://learning.oreilly.com/library/view/-/9781491986011/preface01.html#a1056868-7bd9-445a-9610-be9bdbff3d43))
 
 
-As the Japanese poet Matsuo Bash? said, ìDo not seek to follow in the footsteps of the wise; seek what they sought.î ([link](https://learning.oreilly.com/library/view/-/9781491986011/preface01.html#e8c040b0-b150-4fd5-96b7-be8d1bbdbb24))
+As the Japanese poet Matsuo Bash≈ç said, ‚ÄúDo not seek to follow in the footsteps of the wise; seek what they sought.‚Äù ([link](https://learning.oreilly.com/library/view/-/9781491986011/preface01.html#e8c040b0-b150-4fd5-96b7-be8d1bbdbb24))
 
 ## 1. Continuous Delivery: Why and What
 

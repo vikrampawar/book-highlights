@@ -11,7 +11,7 @@ This helps illustrate the fact that Kafka is serving as a kind of event stream d
 look at it another way, our event consists of two pieces of event metadata (namely, the event and the timestamp), and two business entities (the shopper and the product) ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_011.html#bdddd084-d9df-4b80-8e0f-f089234edf6a))
 
 
-It is up to us to define the internal format of our eventsóa process we call modeling our events. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_011.html#9a87d82b-2753-46d9-ad67-bc5cd91edd23))
+It is up to us to define the internal format of our events‚Äîa process we call modeling our events. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_011.html#9a87d82b-2753-46d9-ad67-bc5cd91edd23))
 
 
 We need a way of formalizing this structure further, ideally into a data serialization format that is understandable by humans but also can be parsed by computers ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_011.html#015ec375-60b1-4321-bfee-b7473b0b8ea0))
@@ -44,7 +44,7 @@ We believe that reframing your business in terms of a continuous stream of event
 
 
 
-The important thing to understand is that we are looking up the shopperís IP address in MaxMind, and if itís found, we are attaching the shopperís country and city to the outgoing enriched event. If anything goes wrong on the way, we write that error message out to the ìbadî topic. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_012.html#65286136-fb9c-4c34-bacd-deaef520eb90))
+The important thing to understand is that we are looking up the shopper‚Äôs IP address in MaxMind, and if it‚Äôs found, we are attaching the shopper‚Äôs country and city to the outgoing enriched event. If anything goes wrong on the way, we write that error message out to the ‚Äúbad‚Äù topic. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_012.html#65286136-fb9c-4c34-bacd-deaef520eb90))
 
 
 In multiple-event processing, we have to read multiple events from the event stream in order to generate some kind of output. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_012.html#d5b422c2-40c1-472e-a72d-542686bd37f5))
@@ -66,13 +66,13 @@ import base64
 base64.b64decode ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#99f2ae38-1e54-4ad5-b962-617b48e3576a))
 
 
-We specified that the shard iterator should be of type TRIM_HORIZON. This is AWS jargon for the oldest events in the shard that have not yet been trimmedóexpired for being too old. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#b5674b9b-e393-4a8f-8180-bf1ddef3bddc))
+We specified that the shard iterator should be of type TRIM_HORIZON. This is AWS jargon for the oldest events in the shard that have not yet been trimmed‚Äîexpired for being too old. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#b5674b9b-e393-4a8f-8180-bf1ddef3bddc))
 
 
 Before we can read events from our stream, we need to retrieve what Amazon calls a shard iterator for each shard in the stream.  ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#360cafb9-e017-437f-bd83-f53ab19a325a))
 
 
-Apache Spark Streaming, which is Sparkís microbatch processing framework, ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#8b8dcb43-7376-4c81-8626-fbd2d091a274))
+Apache Spark Streaming, which is Spark‚Äôs microbatch processing framework, ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#8b8dcb43-7376-4c81-8626-fbd2d091a274))
 
 
 AWS Lambda is a fully managed stream processing platform running on a Node.js cluster.  ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_013.html#d26825cb-0f7c-4500-9241-2cb41ef53d6c))
@@ -96,7 +96,7 @@ This chapter introduces Amazon Kinesis (https://aws.amazon.com/kinesis/), a host
 Have different users consume different versions of our applications ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_010.html#3da7c8ed-fd37-40a7-87ff-635f8f146fcc))
 
 
-If we can have multiple applications reading from the unified log, then it follows that we can also have multiple versions of the same application processing events from the unified log. This is hugely useful, as it allows us to hot swap our data processing applicationsóto upgrade our applications without taking them offline. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_010.html#80fc0ea6-505d-41ab-b552-f2f2bdc3375a))
+If we can have multiple applications reading from the unified log, then it follows that we can also have multiple versions of the same application processing events from the unified log. This is hugely useful, as it allows us to hot swap our data processing applications‚Äîto upgrade our applications without taking them offline. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_010.html#80fc0ea6-505d-41ab-b552-f2f2bdc3375a))
 
 
 Whenever the customer looks like they are about to abandon their shopping cart, pop up a coupon in their web browser to coax them into checking out. ([link](https://learning.oreilly.com/library/view/-/9781617292347/kindle_split_010.html#239af871-73ba-4320-891e-cd3e8b0d938d))
